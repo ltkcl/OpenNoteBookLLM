@@ -1,0 +1,1 @@
+{"version":3,"file":"artifact-events.js","sourceRoot":"","sources":["../../src/lib/artifact-events.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAE9C;;;;;;GAMG;AACH,MAAM,CAAC,KAAK,UAAU,yBAAyB,CAAC,KAG/C;IACG,MAAM,OAAO,CAAC,IAAI,CAAC;QACf,IAAI,EAAE,mBAAmB;QACzB,IAAI,EAAE,KAAK;KACd,CAAC,CAAC;AACP,CAAC"}

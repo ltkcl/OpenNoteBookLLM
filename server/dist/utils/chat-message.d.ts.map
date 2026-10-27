@@ -1,0 +1,1 @@
+{"version":3,"file":"chat-message.d.ts","sourceRoot":"","sources":["../../src/utils/chat-message.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAC,MAAM,IAAI,CAAC;AAEnC,wBAAgB,oBAAoB,CAAC,OAAO,EAAE,SAAS,UAKtD;AAED,wBAAgB,sBAAsB,CAAC,QAAQ,EAAE,SAAS,EAAE,iBAY3D;AAED,wBAAgB,sBAAsB,CAAC,IAAI,EAAE,MAAM,UASlD"}
